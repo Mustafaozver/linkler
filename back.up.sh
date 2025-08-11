@@ -38,5 +38,3 @@ git commit -m "$COMMITMSG"
 git push
 
 echo " === >>> GITHUB Yedeği alındı, $COMMITMSG"
-
-npm test
